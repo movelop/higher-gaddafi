@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine, RiFacebookBoxFill, RiTwitterFill, RiInstagramFill } from 'react-icons/ri';
-import logo from '../../assets/logo.svg';
+import logo from '../../assets/logo1.png';
 
 import './navbar.css';
 
@@ -27,11 +27,10 @@ const Navbar = () => {
         <div className = 'gpt3__navbar'>
            <div className="gpt3__navbar-links">
                <div className="gpt3__navbar-links_logo">
-                   {/* <img
+                   <img
                         src = {logo}
                         alt = 'logo'
-                   /> */}
-                   <h1>Higher Gaddafi</h1>
+                   />
                </div>
                <div className = 'gpt3__navbar-links_container'>
                     <Menu />
@@ -39,17 +38,17 @@ const Navbar = () => {
            </div>
            <div className = 'gpt3__navbar-sign'>
                 <p>
-                    <a href="#">
+                    <a href="https://web.facebook.com/ibrahim.lawal.948?_rdc=1&_rdr" target='_blank' rel="noreferrer">
                         <RiFacebookBoxFill color='#fff' size={32} />  
                     </a> 
                 </p>
                 <p>
-                    <a href="#">
+                    <a href="https://twitter.com/iam_hartond" target='_blank' rel="noreferrer">
                         <RiTwitterFill color='#fff' size={32} />  
                     </a> 
                 </p>
                 <p>
-                    <a href="#">
+                    <a href="https://www.instagram.com/higher_gaddafi_enterprise/" target='_blank' rel="noreferrer">
                         <RiInstagramFill color='#fff' size={32} />  
                     </a> 
                 </p>
@@ -68,17 +67,17 @@ const Navbar = () => {
                             </div>
                             <div className="gpt3__navbar-menu_container-links-sign">
                                 <p>
-                                    <a href="#">
+                                    <a href="https://web.facebook.com/ibrahim.lawal.948?_rdc=1&_rdr" target='_blank' rel="noreferrer">
                                         <RiFacebookBoxFill color='#fff' size={32} />  
                                     </a> 
                                 </p>
                                 <p>
-                                    <a href="#">
+                                    <a href="https://twitter.com/iam_hartond" target='_blank' rel="noreferrer">
                                         <RiTwitterFill color='#fff' size={32} />  
                                     </a> 
                                 </p>
                                 <p>
-                                    <a href="#">
+                                    <a href="https://www.instagram.com/higher_gaddafi_enterprise/" target='_blank' rel="noreferrer">
                                         <RiInstagramFill color='#fff' size={32} />  
                                     </a> 
                                 </p>

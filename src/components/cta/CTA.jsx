@@ -6,11 +6,11 @@ const CTA = () => {
     return (
         <div className ='gpt3__cta'>
             <div className = 'gpt3__cta-content' >
-                <p>Join the long list of happy customers</p>
+                <p>Do you have a question?</p>
                 <h3>Contact us today and enjoy the world of endless possibilities we offer</h3>
             </div>
             <div className = 'gpt3__cta-button'>
-                <a href="#">
+                <a href="https://wa.me/message/JVOUKNQBQ2PME1" target='_blank' rel="noreferrer">
                     <button type = 'button' ><RiWhatsappFill fontSize={21} style={{marginRight :"10px"}} /> <span>Contact us</span></button>
                 </a>
                 
