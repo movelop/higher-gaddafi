@@ -1,0 +1,42 @@
+.gpt3__team {
+    display: flex;
+    flex-direction: column;
+}
+
+.gpt3__team-heading {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 3rem;
+}
+
+.gpt3__team-heading h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 45px;
+    
+}
+
+.gpt3__team-heading p {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FF8A71;
+    margin-top: 2rem;
+
+}
+
+.gpt3__team-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+} 
+
+@media screen and (max-width: 700px) {
+    .gpt3__team-container{
+        grid-template-columns: 1fr;
+    }
+}
