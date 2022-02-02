@@ -7,34 +7,35 @@ import Carousel from "react-elastic-carousel";
 const teamData = [
     {
         imgURL: "https://legitcards.com.ng/imgs/favy.jpg",
-        name: "Lawal Ibrahim . O .",
-        desc: "Have been searching all over the internet for a genuine gift card trader. Fortunately I stumbled on higher Gaddafi, had doubt initially but decided to try with 10usd. I couldn't believe it when I got alert in few minutes. Ever since, have traded over 5000usd with higher Gaddafi!"
+        name: "Oki Oluwagbemiga",
+        desc: "Higher Gaddafi is just the best Nigerian giftcards and bitcoin vendor. Their customer service and rate is very high. Thank you for being there"
     },
 
     {
         imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
-        name: "Lawal Hamida Bola",
+        name: "Golden Uhzordinma",
         desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
     },
     {
-        imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
-        name: "Lawal Hamida Bola",
-        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
+        imgURL: "https://www.sandycards.com.ng/kehinde.jpg",
+        name: "Isreal Kolawole",
+        desc: "Higher Gaddafi have been tested and trusted, I won't be needing another vendor, I'm satisfied trading here."
     },
     {
-        imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
-        name: "Lawal Hamida Bola",
-        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
+        imgURL: "https://bitcardy.com/imgs/test2.jpeg",
+        name: "Collins Francis",
+        desc: "Have been losing money to scammers online until I found Higher Gaddafi. I'm so happy now, thank you Higher Gaddafi"
     },
     {
-        imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
-        name: "Lawal Hamida Bola",
-        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
+        imgURL: "https://bitcardy.com/imgs/test3.jpeg",
+        name: "Idowu Ayoola",
+        desc: "Have been searching all over the internet for a genuine gift card trader. Fortunately I stumbled on Higher Gaddafi, had doubt initially but decided to try with 10usd. I couldn't believe it when I got alert in few minutes. Ever since, have traded over 5000usd with Higher Gaddafi!" 
+        
     },
     {
-        imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
+        imgURL: "https://bitcardy.com/imgs/test1.jpeg",
         name: "Lawal Hamida Bola",
-        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
+        desc: "Higher Gaddafi as been a very interesting place to sell my Bitcoin as well as any type of Gift cards. After passing through a lot of stress and fraud in many exchange websites, I was so excited when I discovered this."
     },
 ]
 
@@ -54,8 +55,8 @@ const Team = () => {
     return (
         <div className='gpt3__team section__padding' id = 'team'>
             <div className="gpt3__team-heading">
-                <h1 className ='gradient__text'>Meet our team</h1>
-                <p>People Behind Our Success</p>
+                <h1 className ='gradient__text'>Testimonials</h1>
+                <p>Here are what our customers have to say about our services</p>
             </div>
 
             <div className="gpt3__team-container">

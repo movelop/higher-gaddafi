@@ -44,6 +44,7 @@
 
     .gpt3__team-container .gpt3__team-container_teamItem {
         width: 100%;
+        padding: 5px 0;
     }
 
     .gpt3__team-container .gpt3__team-container_teamItem-image img{
