@@ -22,7 +22,7 @@ const WhatGPT3 = () => {
                 />
                 <Feature
                     title = 'Gift Card Exchange'
-                    text = 'We are very reliable platform to sell gift cards in Nigeria. We give the best rate and payment is instant upon confirmation of your gift card. With QuickCards, no more loosing your cards to reapers. '
+                    text = 'We are very reliable platform to sell gift cards in Nigeria. We give the best rate and payment is instant upon confirmation of your gift card. With Higher Gaddafi, no more loosing your cards to reapers. '
                 />
                 <Feature
                     title = 'Wallet Fund Purchase'
