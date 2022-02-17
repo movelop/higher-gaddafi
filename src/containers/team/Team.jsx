@@ -1,7 +1,6 @@
 import React, { useRef } from 'react';
 import './team.css'; 
 import { TeamItem } from '../../components';
-// import { blog01, blog02 } from './imports';
 import Carousel from "react-elastic-carousel";
 
 const teamData = [
