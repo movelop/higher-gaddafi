@@ -1,6 +1,5 @@
 .gpt3__team-container_teamItem {
     width: 60%;
-    height: 40%;;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -11,8 +10,6 @@
 }
 
 .gpt3__team-container_teamItem-image {
-    width: 100%;
-    height: 30%;
     background: var(--color-footer);
     display: flex;
     justify-content: center;
@@ -22,9 +19,11 @@
 
 .gpt3__team-container_teamItem-image img {
     width: 200px;
+    height: 200px;
     border-radius: 50%;
     outline: none;
     border: none;
+    object-fit: cover;
 }
 
 .gpt3__team-container_teamItem-content {

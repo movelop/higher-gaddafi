@@ -1,39 +1,40 @@
 import React, { useRef } from 'react';
 import './team.css'; 
 import { TeamItem } from '../../components';
+import { blog01, blog02, blog03, blog04, blog05, blog06 } from './imports';
 import Carousel from "react-elastic-carousel";
 
 const teamData = [
     {
-        imgURL: "https://legitcards.com.ng/imgs/favy.jpg",
-        name: "Oki Oluwagbemiga",
+        imgURL: blog01,
+        name: "Abdulganiyu Nurudeen",
         desc: "Higher Gaddafi is just the best Nigerian giftcards and bitcoin vendor. Their customer service and rate is very high. Thank you for being there"
     },
 
     {
-        imgURL: "https://legitcards.com.ng/imgs/chinedu.jpg",
-        name: "Golden Uhzordinma",
+        imgURL: blog02,
+        name: "Felix Joy",
         desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
     },
     {
-        imgURL: "https://www.sandycards.com.ng/kehinde.jpg",
-        name: "Isreal Kolawole",
+        imgURL: blog03,
+        name: "Dawood Opeyemi",
         desc: "Higher Gaddafi have been tested and trusted, I won't be needing another vendor, I'm satisfied trading here."
     },
     {
-        imgURL: "https://bitcardy.com/imgs/test2.jpeg",
-        name: "Collins Francis",
+        imgURL: blog04,
+        name: "Lasisi Omotayo",
         desc: "Have been losing money to scammers online until I found Higher Gaddafi. I'm so happy now, thank you Higher Gaddafi"
     },
     {
-        imgURL: "https://bitcardy.com/imgs/test3.jpeg",
-        name: "Idowu Ayoola",
+        imgURL: blog05,
+        name: "Pabiekun Samuel",
         desc: "Have been searching all over the internet for a genuine gift card trader. Fortunately I stumbled on Higher Gaddafi, had doubt initially but decided to try with 10usd. I couldn't believe it when I got alert in few minutes. Ever since, have traded over 5000usd with Higher Gaddafi!" 
         
     },
     {
-        imgURL: "https://bitcardy.com/imgs/test1.jpeg",
-        name: "Lawal Hamida Bola",
+        imgURL: blog06,
+        name: "Oyeyinka Racheal",
         desc: "Higher Gaddafi as been a very interesting place to sell my Bitcoin as well as any type of Gift cards. After passing through a lot of stress and fraud in many exchange websites, I was so excited when I discovered this."
     },
 ]
