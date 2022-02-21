@@ -5,15 +5,15 @@ import './features.css';
 const featuresData = [
     {
         title : 'Initiate Trade',
-        text : "To initiate a trade contact us on Whatsapp by clicking on 'Start Selling' button and we will respond to you immediately"
+        text : "To initiate a trade contact us on WhatsApp by clicking on the 'Start Selling' button and we will respond to you immediately"
     },
     {
         title: 'Ask Rate & Proceed',
-        text : 'Tell us what you are trading for, either Bitcoin, Ethereum or Gift cards, if you are selling your Gift Cards to us please specify the type of the card.',
+        text : 'Tell us what you are trading for, either Bitcoin, Ethereum, or Gift cards, if you are selling your Gift Cards to us please specify the type of card.',
     },
     {
         title : 'Get Instant Credit Alert',
-        text : 'Once trade is successful, payment is sent to your bank account instantly. We do not use banks that delay alerts, we use the best for instant credit alerts.'
+        text : 'Once the trade is successful, payment is instantly sent to your bank account. We do not use banks that delay alerts, we use the best for instant credit alerts.'
     },
 ]
 

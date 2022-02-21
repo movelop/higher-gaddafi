@@ -8,34 +8,34 @@ const teamData = [
     {
         imgURL: blog01,
         name: "Abdulganiyu Nurudeen",
-        desc: "Higher Gaddafi is just the best Nigerian giftcards and bitcoin vendor. Their customer service and rate is very high. Thank you for being there"
+        desc: "Higher Gaddafi is just the best Nigerian gift cards and bitcoin vendor. Their customer service and the rate are very high. Thank you for being there"
     },
 
     {
         imgURL: blog02,
         name: "Felix Joy",
-        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10 mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
+        desc: "Higher Gaddafi is the best place to sell iTunes gift cards for naira, I was credited in 10mins, my guys didn't believe me until they saw me make several successful trades. Please keep up the good job! Will keep recommending you to friends."
     },
     {
         imgURL: blog03,
         name: "Dawood Opeyemi",
-        desc: "Higher Gaddafi have been tested and trusted, I won't be needing another vendor, I'm satisfied trading here."
+        desc: "Higher Gaddafi has been tested and trusted, I won't be needing another vendor, I'm satisfied trading here."
     },
     {
         imgURL: blog04,
         name: "Lasisi Omotayo",
-        desc: "Have been losing money to scammers online until I found Higher Gaddafi. I'm so happy now, thank you Higher Gaddafi"
+        desc: "I have been losing money to scammers online until I found Higher Gaddafi. I'm so happy now, thank you Higher Gaddafi."
     },
     {
         imgURL: blog05,
         name: "Pabiekun Samuel",
-        desc: "Have been searching all over the internet for a genuine gift card trader. Fortunately I stumbled on Higher Gaddafi, had doubt initially but decided to try with 10usd. I couldn't believe it when I got alert in few minutes. Ever since, have traded over 5000usd with Higher Gaddafi!" 
+        desc: "I have been searching all over the internet for a genuine gift card trader. Fortunately, I stumbled on Higher Gaddafi, had doubts initially but decided to try with 10usd. I couldn't believe it when I got alert in a few minutes. Ever since I have traded over 5000usd with Higher Gaddafi!" 
         
     },
     {
         imgURL: blog06,
         name: "Oyeyinka Racheal",
-        desc: "Higher Gaddafi as been a very interesting place to sell my Bitcoin as well as any type of Gift cards. After passing through a lot of stress and fraud in many exchange websites, I was so excited when I discovered this."
+        desc: "Higher Gaddafi has been a very interesting place to sell my Bitcoin as well as any type of Gift card. After passing through a lot of stress and fraud on many exchange websites, I was so excited when I discovered this."
     },
 ]
 
