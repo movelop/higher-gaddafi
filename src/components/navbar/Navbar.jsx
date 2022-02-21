@@ -16,7 +16,7 @@ const Menu = () => (
             <a href = '#features'>Services</a>
         </p>
         <p>
-            <a href = '#team'>Our Team</a>
+            <a href = '#team'>Testimonials</a>
         </p>
     </>
 )
