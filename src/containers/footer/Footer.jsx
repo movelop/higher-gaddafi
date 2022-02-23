@@ -23,7 +23,7 @@ const Footer = () => {
                         </a> 
                     </p>
                     <p>
-                        <a href="https://twitter.com/iam_hartond" target='_blank'rel="noreferrer">
+                        <a href="https://mobile.twitter.com/higher_gaddafi_" target='_blank'rel="noreferrer">
                             <RiTwitterFill color='#fff' size={14} />
                             <span>Twitter</span>  
                         </a> 
