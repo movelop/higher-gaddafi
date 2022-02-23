@@ -13,7 +13,7 @@ const Menu = () => (
             <a href = '#wgpt3'>About Us</a>
         </p>
         <p>
-            <a href = '#features'>Services</a>
+            <a href = '#features'>Trading</a>
         </p>
         <p>
             <a href = '#team'>Testimonials</a>
