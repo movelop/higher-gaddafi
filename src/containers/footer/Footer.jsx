@@ -44,7 +44,7 @@ const Footer = () => {
                 <div className="gpt3__footer-links_div">
                     <h4>Get in touch</h4>
                     <p style={{display: 'flex', alignItems: 'center' }}><a href = 'tel:+234 817-786-0342'><RiPhoneFill/> <span>+234 817-786-0342</span></a></p>
-                    <p><a href = 'mailto:hartond2015@gmail.com'>hartond2015@gmail.com</a></p>
+                    <p><a href = 'mailto:highergaddafi@gmail.com'>highergaddafi@gmail.com</a></p>
                 </div>
             </div>
             <div className="gpt3__footer-copyright">
