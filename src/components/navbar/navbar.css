@@ -1,8 +1,16 @@
 .gpt3__navbar {
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    height: 40px;
     align-items: center;
     padding: 2rem 6rem;
+    background: rgba(137, 75, 252, 0.25);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(4px);
+    position: fixed;
+    top: 0;
+    z-index: 2;
 }
 
 .gpt3__navbar-links {
@@ -20,6 +28,7 @@
 .gpt3__navbar-links_logo img {
     width: 82.56px;
     height: 62.56px;
+    object-fit: contain;
 }
 
 .gpt3__navbar-links_container {
@@ -118,6 +127,11 @@
 @media screen and (max-width: 550px) {
     .gpt3__navbar {
         padding: 2rem;
+    }
+
+    .gpt3__navbar-links_logo img {
+        width: 72.56px;
+        height: 52.56px;
     }
 
     .gpt3__navbar-sign {
